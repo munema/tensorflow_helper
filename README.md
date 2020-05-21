@@ -5,6 +5,7 @@ my tensorflow helper code
 - Get keras pretrained model (.pb file)
 - You can choose pretrained model at https://keras.io/ja/applications/
 - you can use pretrained model at tensorflow.
+- Explanation https://www.munemakun.net/entry/deep/tf_model_load
 
 ### Requirement
 Tensorflow version 1.15
